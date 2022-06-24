@@ -4,7 +4,7 @@
     "range": "low",
     "name": "The Waving Shore Hotel",
     "address": "Kempton Park, 34 Street",
-    "image": "/src/images/hotel1/wavingShore.jpg",
+    "image": "src/images/hotel1/wavingShore.jpg",
     "price": 850,
     "description": "A beachfront hotel that offers direct access to  its very own beachfront, available to all who stay."
   },
@@ -13,7 +13,7 @@
     "range": "high",
     "name": "Holly Hotel",
     "address": "Saint Louis,2628 State Street",
-    "image": "/src/images/hotel2/hollyHotel.jpg",
+    "image": "src/images/hotel2/hollyHotel.jpg",
     "price": 8400,
     "description": "Holly Hotel, a jolly time at a holly price. A 4 star hotel that caters, hosts and can offer plans for bug gatherings or a weekend away."
   },
@@ -22,7 +22,7 @@
     "range": "low",
     "name": "Hotel Wende",
     "address": "Seymour, 2216 Charack Road",
-    "image": "/src/images/hotel3/wende.jpg",
+    "image": "src/images/hotel3/wende.jpg",
     "price": 550,
     "description": "Hotel Wende focuses on providing the best get away experience possible, with its lush garden routes and inspiring hiking trails, you will always be stunned by what you see."
   },
@@ -31,7 +31,7 @@
     "range": "low",
     "name": "The Shire Stay",
     "address": "Bag End",
-    "image": "/src/images/hotel4/bagEnd.jpg",
+    "image": "src/images/hotel4/bagEnd.jpg",
     "price": 750,
     "description": "A Hobbit inspired stay, created to make you feel like a hobbit at home. Perfect for a romantic getaway; or for a bunch of people to show up unannounced."
   },
@@ -40,7 +40,7 @@
     "range": "high",
     "name": "The Blue Wall",
     "address": "Greenland, 3492",
-    "image": "/src/images/hotel5/blueWall.jpg",
+    "image": "src/images/hotel5/blueWall.jpg",
     "price": 9500,
     "description": "A winter wander land, Literally. This hotel is completely made of ice and snow. Only available for 3 months in a year before it melts adn is reconstructed the next year again."
   },
@@ -49,7 +49,7 @@
     "range": "high",
     "name": "Daring Stay",
     "address": "Ireland",
-    "image": "/src/images/hotel6/daringStay.jpg",
+    "image": "src/images/hotel6/daringStay.jpg",
     "price": 10500,
     "description": "A truly daring stay, this hotel is built into the side of a cliff face. Not for the weak of hearts or for those with a fear for heights."
   },
@@ -58,7 +58,7 @@
     "range": "medium",
     "name": "Sanctuary Hotel",
     "address": "South Africa",
-    "image": "/src/images/hotel7/sanctuary.jpg",
+    "image": "src/images/hotel7/sanctuary.jpg",
     "price": 1500,
     "description": "This hotel is mildly inspire by Do little. A sanctuary built for animals, and a hotel where You can visit Them. Catch glimpses of Giraffes or rhinos as you eat your fod at the local restaurant."
   },
@@ -67,7 +67,7 @@
     "range": "medium",
     "name": "Moonstone Stay",
     "address": "Bathurst, Eastern Cape",
-    "image": "/src/images/moonstone.jpg",
+    "image": "src/images/hotel8/moonstone.jpg",
     "price": 1700,
     "description": "The perfect end of year stay, The Moonstone Hotel provides a personal stargazing bubble that allows you to watch the auroras and stargaze. A perfect honeymoon or family holiday."
   }
