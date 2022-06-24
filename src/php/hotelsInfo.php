@@ -14,7 +14,7 @@ function createHotels($hotels)
                     <p id='price'>R" . $hotelsArray['price'] . ".00 ZAR per night</p>
                     <p id='description'>". $hotelsArray['description']."</p>
                     </div>
-                <form action='/bookingApp/book.php'>
+                <form class='chosenHotel' name='chosenHotel'>
                     <input type='hidden' value=" . $hotelsArray['id'] . " name='hotel_id'>
                     <input type='hidden' value=" . $hotelsArray['range'] . " name='hotel_range'>
                     <button class='booking-btn' title='book'>+</button>
@@ -23,5 +23,7 @@ function createHotels($hotels)
             ";
     }
 }
+
+
 
 

@@ -11,6 +11,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bed&Dice</title>
     <link rel="stylesheet" href="src/css/stylesheet.css">
+    <link rel="stylesheet" href="src/css/styleHotels.css">
     <script src="/src/javascript/script.js" defer></script>
 </head>
 
@@ -23,11 +24,11 @@ session_start();
     // Header
     include("/MAMP/htdocs/bookingApp/src/php/header.php");
 
-    //Booking space 
-    include("/MAMP/htdocs/bookingApp/src/php/book.php");
-
     // Main
     include("/MAMP/htdocs/bookingApp/src/php/includeMain.php");
+
+    //Booking space 
+    include("/MAMP/htdocs/bookingApp/src/php/book.php");
 
     // Footer
     include("/MAMP/htdocs/bookingApp/src/php/footer.php");
