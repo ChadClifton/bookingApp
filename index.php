@@ -14,22 +14,21 @@ session_start();
     <script src="/src/javascript/script.js" defer></script>
 </head>
 
-<header>
-
-</header>
-
 <body>
-
 <?php
     // PHP Mailer
     include("/MAMP/htdocs/bookingApp/vendor/autoload.php");
 
+    // Header
+    include("/MAMP/htdocs/bookingApp/src/php/header.php");
+
+    // Main
+    include("/MAMP/htdocs/bookingApp/src/php/includeMain.php");
+
+    // Footer
+    include("/MAMP/htdocs/bookingApp/src/php/footer.php");
+
 ?>
-
 </body>
-
-<footer>
-
-</footer>
 
 </html>
